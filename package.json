@@ -9,7 +9,10 @@
     "email": "dave.des@gmail.com",
     "url": "https://github.com/mattdesl"
   },
-  "dependencies": {},
+  "dependencies": {
+    "aframe-gaze-control-component": "^1.0.0",
+    "requirejs": "^2.3.5"
+  },
   "devDependencies": {
     "budo": "^7.0.4",
     "crosswalk-app-tools": "mattdesl/crosswalk-app-tools#gearvr",
